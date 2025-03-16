@@ -64,8 +64,8 @@
 
 ### Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://camo.githubusercontent.com/b2c97a8be15570f121821a3c653af0f7c2817b64dc4bdab0ab48ed632b7ee682/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f7068702f7068705f504e4731302e706e67)
-![MySql](https://images.sftcdn.net/images/t_app-icon-m/p/917c77e8-96d1-11e6-8453-00163ed833e7/3780880766/mysql-com-icon.png)
+![PHP](https://camo.githubusercontent.com/b2c97a8be15570f121821a3c653af0f7c2817b64dc4bdab0ab48ed632b7ee682/68747470733a2f2f706e67696d672e636f6d2f75706c6f6164732f7068702f7068705f504e4731302e706e67?style=width=127px&height=28px)
+![MySql](file:///C:/Users/DELL/Downloads/mysql_logo.png" alt="MySQL Logo)
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
